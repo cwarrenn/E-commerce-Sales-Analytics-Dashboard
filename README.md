@@ -1,4 +1,4 @@
-#E-commerce Sales Analytics Dashboard
+# E-commerce Sales Analytics Dashboard
 
 In this project, I performed an end-to-end exploratory data analysis (EDA) on the Superstore dataset to uncover key sales and profit drivers across regions, categories, customer segments, and time.
 
