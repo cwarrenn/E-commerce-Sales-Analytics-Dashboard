@@ -17,4 +17,4 @@ Key insights included:
 - Technology category and corporate clients yielded the best profitability.
 
 **Tools:** Python, Pandas, Seaborn, Matplotlib, Statsmodels  
-**Dataset:** [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+**Dataset:** [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (csv included in git)
